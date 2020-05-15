@@ -1,3 +1,10 @@
+#Created By ChokunPlayZ
+#Ask Creator Before Doing Any Changes To this script
+#If You want to do any improvement send final one to me happily to post it here
+# my YT : https://www.youtube.com/channel/UCGCMbeavIVXu3w6kAxHfHrQ/
+# Reddit u/ChokunPlayZ
+# https://www.reddit.com/user/ChokunPlayZ
+
 clear
 # Landing Script
 echo "Rspi Updater v.1.1"
